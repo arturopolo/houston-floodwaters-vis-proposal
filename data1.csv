@@ -1,0 +1,11 @@
+Barrio,NivelMaximo,NivelPromedioRegistradoAntes,DiferenciaNivelesAntes,IndiceAntes,NivelPromedioRegistradoDurante,DiferenciaNivelesDurante,IndiceDurante,NivelPromedioRegistradoDespues,DiferenciaNivelesDespues,IndiceDespues
+Barrio1,30,27,-3,-2,36,6,2,36,6,2
+Barrio2,32,32,0,0,37,5,2,34,2,2
+Barrio3,31,28,-3,-2,33,2,2,32,1,1
+Barrio4,43,39,-4,-2,49,6,2,47,4,2
+Barrio5,38,37,-1,-1,43,5,2,42,4,2
+Barrio6,28,26,-2,-2,34,6,2,33,5,2
+Barrio7,33,33,0,0,40,7,2,37,4,2
+Barrio8,41,40,-1,-1,43,2,2,41,0,0
+Barrio9,39,35,-4,-2,45,6,2,40,1,1
+Barrio10,34,31,-3,-2,41,7,2,39,5,2
