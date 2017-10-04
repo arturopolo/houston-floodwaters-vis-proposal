@@ -4,7 +4,7 @@
 Presentar los niveles de inundación registrados en la ciudad de Houston antes, durante y después de la tormenta a partir de la información recuperada de los sensores instalados en diferentes alcantarillas.
 
 ## Tratamiento del DATASET
-La visualización diseñada parte de tener un DATASET de la siguiente forma:
+Al dataset inicial se le aplicó una transformación con el objetivo de organizarla/derivarla de la siguiente forma:
 
 <ul>
 <li>Barrio: variable categórica.</li>
